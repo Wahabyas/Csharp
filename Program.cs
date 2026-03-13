@@ -1,6 +1,11 @@
-﻿Console.WriteLine("Hello, World!");
+﻿
+// hellow C#
+// Console.WriteLine("Hello, C#!");
 
-long bigNum = 90000000;
+
+
+// assigning a value
+// long bigNum = 90000000;
 
 // if else lesson
 
@@ -33,3 +38,9 @@ long bigNum = 90000000;
 //  Console.Write("hi" + Name);
 // m.SetName(Name);
 // m.SayHellow();
+
+// conver into int32
+
+string age = "20";
+int agetoint32 = Convert.ToInt32(age);
+Console.WriteLine(agetoint32);
