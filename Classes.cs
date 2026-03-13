@@ -1,10 +1,12 @@
-class model{
-    static void SayHellow(){
-        Console.WriteLine("Hellow MF")
+class Model{
+    public string Name;
+    
+    public void SayHellow(){
+        Console.WriteLine("Hellow " + Name);
     }
-
+    public void SetName(string name){
+        Name = name;
+    }
 
 }
 
-string model = new model();
-model.SayHellow();
