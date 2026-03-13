@@ -9,16 +9,19 @@ if(bigNum == 0){
     Console.WriteLine("The number is not zero.");
 }
 
-// Switch(bigNum){
-//     case 90000000:
-//         Console.WriteLine("The number is 90 million.");
-//         break;
-//     default:
-//         Console.WriteLine("The number is something else.");
-//         break;
-// }
-Model m = new Model();
-Console.WriteLine("Enter your name:");
- string Name=Console.ReadLine();
-m.SetName(Name);
-m.SayHellow();
+switch (bigNum){
+    case 90000000:
+        Console.WriteLine("The number is 90 million.");
+        break;
+    default:
+        Console.WriteLine("The number is something else.");
+        break;
+}
+
+
+// Model m = new Model();
+// Console.WriteLine("Enter your name:");
+//  string Name=Console.ReadLine();
+//  Console.Write("hi" + Name);
+// m.SetName(Name);
+// m.SayHellow();
