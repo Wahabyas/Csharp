@@ -32,21 +32,12 @@ Console.WriteLine("Hello, C#!");
 
 
 //Dealing with classes and objects in C#:
-<<<<<<< HEAD
-//  Model m = new Model();
-// Console.WriteLine("Enter your name:");
-// string Name = Console.ReadLine();
-// Console.Write("hi" + Name);
-// m.SetName(Name);
-// m.SayHellow();
-=======
  Model m = new Model();
 Console.WriteLine("Enter your name:");
 string Name = Console.ReadLine();
 Console.Write("hi" + Name);
 m.SetName(Name);
 m.SayHellow();
->>>>>>> aeb6cf09832df62b7dfe0d5448f03c8c1b82ae09
 
 // conver into int32
 
@@ -59,7 +50,6 @@ m.SayHellow();
 //int[] agetoint32 = age.split(',');
 //foreach (int i in agetoint32){
 //    Console.WriteLine(i);
-<<<<<<< HEAD
 //}
 
 // hiii
@@ -72,6 +62,4 @@ m.SayHellow();
 
 
 
-=======
 //}
->>>>>>> aeb6cf09832df62b7dfe0d5448f03c8c1b82ae09

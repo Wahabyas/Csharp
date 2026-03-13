@@ -11,7 +11,6 @@ class Model{
     }
     public string Get_config() {
         return this.config;
-
     }
 
 }

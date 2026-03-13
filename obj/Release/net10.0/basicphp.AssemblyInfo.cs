@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("basicphp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b53f45b3b7c636c09b839717faf5b5c33439e00c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51248fbd2ec9a9a0918d0590da8ea765dad7ab76")]
 [assembly: System.Reflection.AssemblyProductAttribute("basicphp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("basicphp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
