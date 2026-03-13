@@ -1,6 +1,6 @@
 ﻿
 // hellow C#
-// Console.WriteLine("Hello, C#!");
+Console.WriteLine("Hello, C#!");
 
 
 
@@ -31,16 +31,23 @@
 
 
 
-// Dealing with classes and objects in C#:
-// Model m = new Model();
-// Console.WriteLine("Enter your name:");
-//  string Name=Console.ReadLine();
-//  Console.Write("hi" + Name);
-// m.SetName(Name);
-// m.SayHellow();
+//Dealing with classes and objects in C#:
+ Model m = new Model();
+Console.WriteLine("Enter your name:");
+string Name = Console.ReadLine();
+Console.Write("hi" + Name);
+m.SetName(Name);
+m.SayHellow();
 
 // conver into int32
 
-string age = "20";
-int agetoint32 = Convert.ToInt32(age);
-Console.WriteLine(agetoint32);
+// string age = "20sdfds";
+// int agetoint32 = Convert.ToInt32(age);
+// Console.WriteLine(agetoint32);
+
+// trying the split method
+//string age = "2,0,s,d,f,d,s";
+//int[] agetoint32 = age.split(',');
+//foreach (int i in agetoint32){
+//    Console.WriteLine(i);
+//}
