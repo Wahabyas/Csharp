@@ -1,0 +1,14 @@
+C:\xampp\htdocs\basicphp\bin\Debug\net10.0\basicphp.exe
+C:\xampp\htdocs\basicphp\bin\Debug\net10.0\basicphp.deps.json
+C:\xampp\htdocs\basicphp\bin\Debug\net10.0\basicphp.runtimeconfig.json
+C:\xampp\htdocs\basicphp\bin\Debug\net10.0\basicphp.dll
+C:\xampp\htdocs\basicphp\bin\Debug\net10.0\basicphp.pdb
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\basicphp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\basicphp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\basicphp.AssemblyInfo.cs
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\basicphp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\basicphp.dll
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\refint\basicphp.dll
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\basicphp.pdb
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\basicphp.genruntimeconfig.cache
+C:\xampp\htdocs\basicphp\obj\Debug\net10.0\ref\basicphp.dll
