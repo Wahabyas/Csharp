@@ -18,7 +18,7 @@ if(bigNum == 0){
 //         break;
 // }
 
-
+// Dealing with classes and objects in C#:
 // Model m = new Model();
 // Console.WriteLine("Enter your name:");
 //  string Name=Console.ReadLine();
