@@ -54,4 +54,11 @@ Console.WriteLine("Hello, C#!");
 
 // hiii
 
+//this key word
+//Model m = new Model();
+//string database = m.Get_config();
+//Console.WriteLine(database);
+//Console.ReadLine();
+
+
 
