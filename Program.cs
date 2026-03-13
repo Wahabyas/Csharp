@@ -8,15 +8,15 @@ if(bigNum == 0){
 }else{
     Console.WriteLine("The number is not zero.");
 }
-
-switch (bigNum){
-    case 90000000:
-        Console.WriteLine("The number is 90 million.");
-        break;
-    default:
-        Console.WriteLine("The number is something else.");
-        break;
-}
+// switch case lessons
+// switch (bigNum){
+//     case 90000000:
+//         Console.WriteLine("The number is 90 million.");
+//         break;
+//     default:
+//         Console.WriteLine("The number is something else.");
+//         break;
+// }
 
 
 // Model m = new Model();

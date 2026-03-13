@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("basicphp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+013cfd6308e8a334fce6e1654b065b7cbb49c0ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73f2e1617e35b854e90a71c8f755154fcbed4a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("basicphp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("basicphp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
